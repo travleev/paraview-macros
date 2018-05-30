@@ -1,5 +1,6 @@
 import os
 import datetime
+
 # Screenshots are stored to the folder `pvss`(ParaView ScreenShot), 
 # under the user profile folder
 base = os.path.join(os.environ['USERPROFILE'], 'pvss')
